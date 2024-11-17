@@ -37,5 +37,5 @@ Explore the live version of the application: [Live Demo](https://the-mm-oasis.ve
 
 **Demo Credentials:**
 
-Email: `temp@example.com`
+Email: `temp@example.com`\
 Password: `test1234`
