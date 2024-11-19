@@ -1,6 +1,9 @@
-# The Wild Oasis
+# Hotel Management
 
-The Wild Oasis is a comprehensive hotel management web application designed to simplify daily operations for the hotel managers. It provides an efficient and intuitive user experience while supporting essential functionalities.
+A comprehensive hotel management web application designed to simplify daily operations for the hotel managers. It provides an efficient and intuitive user experience while supporting essential functionalities. Course Project from Udemy.
+
+- API and DB with Supabase
+- Deployment with Vercel
 
 ## Features
 
@@ -8,12 +11,21 @@ The Wild Oasis is a comprehensive hotel management web application designed to s
 - **Room and Reservation Management**：Easily and efficiently manage status of rooms and reservations.
 - **Dashboard and Analytics**: Visualize key metrics and statistics for occupancy, revenue, and booking trends.
 
+## Try It Out
+
+Explore the live version of the application: [Live Demo](https://the-mm-oasis.vercel.app/login)
+
+**Demo Credentials:**
+
+Email: `test@test.com`\
+Password: `test1234`
+
 ## Getting Started
 
 1. Clone the repository:
 
 ```
-git clone https://github.com/<user>/<the-wild-oasis>.git
+git clone <this repo>
 ```
 
 2. Install dependencies:
@@ -28,14 +40,11 @@ npm install
 npm run dev
 ```
 
-4. Access the application locally at:
+4. Access the application locally at:\
    http://localhost:5173
 
-## Try It Out
 
-Explore the live version of the application: [Live Demo](https://the-mm-oasis.vercel.app/login)
+To use the project with your own Supabase DB, modify `supabase` and `supabaseUrl` in `supabase.js` 
 
-**Demo Credentials:**
 
-Email: `temp@example.com`\
-Password: `test1234`
+
